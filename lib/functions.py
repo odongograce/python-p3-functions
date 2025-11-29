@@ -13,11 +13,10 @@ def greet_with_default(name="programmer"):
     pass
 
 def add(num1, num2):
-    print(num1 + num2)
-    pass
+    return(num1 + num2)
+    
 
 def halve(number):
-    print(50/2)
-    pass
+   return(number/2)
 
-add(45,55)
+
